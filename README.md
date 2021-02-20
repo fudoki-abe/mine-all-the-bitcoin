@@ -2,7 +2,7 @@
   <img width="667px" alt="a meme" src="./mine-all-the-bitcoin.jpg">
 </div>
 
-Often when introducing bitcoin, people often ask a similar set of questions:
+Often when introducing bitcoin, people ask a similar set of questions:
 
 - How do I mine bitcoin?
 - How do I mine *all* the bitcoin?
@@ -16,7 +16,7 @@ A common answer would be to say something like:
 
 Most people who "know" about bitcoin are dismissive, but maybe the last two are serious questions after all. Perhaps, if it's such a common and natural human desire, these questions are worth considering. 
 
-So this is a mostly complete but simplified exposition of one way to mine all the bitcoin, as well as some defensive measures that could be taken against such an attack.
+This is a mostly complete but simplified outline of one way to mine all the bitcoin, as well as some defensive measures that could be taken against such an attack.
 
 This attack takes just 13 steps around the actual bitcoin network and works through social perceptions & market forces. The attack is basically free, but it is a lot of work and it wouldn't be easy. It may not be sustainable from a practical or legal perspective. It's also not clear if it hasn't been tried already.
 
