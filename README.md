@@ -247,7 +247,7 @@ Have fun controlling the mining of all the bitcoin for no real cost! You made it
 
 ## Outstanding Issues
 
-The **problem** in the last step, is a **people** problem, but not one money can solve. Or, specifically, not one that can be solved with the money *you* print.
+The *problem* in the last step, is a **people** problem, but not one money can solve. Or, specifically, not one that can be solved with the money *you* print.
 
 Some pertinent issues may include:
 
@@ -294,7 +294,7 @@ Just for completeness, the defence to the counter-offer is:
 
 Regardless of what one person chooses, exploitation continues because it's usually possible to simply find new vulnerable people to exploit with the promise of money. It's *not* the victim's fault for not saying no, it's society's fault for knowing about it and turning a blind eye to the exploits of *faux*-wealth and *faux*-prestige. 
 
-"Looking out for number one" in this case means not allowing the promise of money and a good time (or a gift shop sweatshirt) to trick you into trusting someone who just wants to fuck you and all your friends. Say no, and if you can, warn those around you, or call it out.
+"Looking out for number one" in this case means not allowing the promise of money and a good time (or a gift shop sweatshirt) trick you into trusting someone who just wants to fuck you and all your friends. Say no, and if you can, warn those around you, or call it out.
 
 ## Exercise the Ponzi
 
@@ -324,5 +324,5 @@ Likewise, as the multiplier for acting increases, so does the rate at which a po
 
 Anyway, that's the end of the exposition. 
 
-If anyone still wants to mine all the bitcoin for free, it should be clear how, but maybe less clear how to do it forever. We also covered how to defend you and your friends from the attack. And the type of counterattack thats likely to end it.
+If anyone still wants to mine all the bitcoin for free, it should be clear how, but maybe less clear how to do it forever. We also covered how to defend you and your friends from the attack. And the type of counterattack that's likely to end it.
 
