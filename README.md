@@ -10,7 +10,7 @@ Often when introducing bitcoin, people ask a similar set of questions:
 
 A common answer would be to say something like:
 
-> Well, if the last two were possible, it would kind of defeat the whole purpose of bitcoin as a trustworthy decentralized payment system with fair distribution. 
+> Well, if the last two questions had real answers, it would kind of defeat the whole purpose of bitcoin as a trustworthy decentralized payment system with fair distribution. 
 > 
 > If it were controlled by a single central authority, wouldn't that kind of make it worthless?
 
