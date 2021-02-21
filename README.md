@@ -20,7 +20,7 @@ This is a mostly complete but simplified outline of one way to mine all the bitc
 
 This attack takes just 13 steps around the actual bitcoin network and works through social perceptions & market forces. The attack is basically free, but it is a lot of work and it wouldn't be easy. It may not be sustainable from a practical or legal perspective. It's also not clear if it hasn't been tried already.
 
-There are some loose ends in the 13th step, with some unanswered questions laid out. Maybe someone will solve it and make it a longer term solution... but there are counter measures outline as well. And perhaps the most important question is *How much money would people accept to live in a world without real decentralized bitcoin?*
+There are some loose ends in the 13th step, with some unanswered questions laid out. Maybe someone will solve it and make it a longer term solution... but there are counter measures outline as well. And perhaps the most important question is *How much money would people accept to live in a world without a functional decentralized bitcoin?*
 
 Let's try to keep is fun, but also true to what might actually happen.
 
